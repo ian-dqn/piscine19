@@ -1,0 +1,7 @@
+Credentials cache: API:61890
+        Principal: iaduquen@S19.BE
+
+  Issued                Expires               Principal
+Aug  6 08:31:01 2019  Aug  6 18:31:01 2019  krbtgt/S19.BE@S19.BE
+Aug  6 08:31:03 2019  Aug  6 18:31:01 2019  ldap/ldap-master.s19.be@S19.BE
+Aug  6 08:31:03 2019  Aug  6 18:31:01 2019  HTTP/san-ssd.s19.be@S19.BE
